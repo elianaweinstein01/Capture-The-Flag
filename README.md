@@ -14,7 +14,7 @@ If you want to see **how to solve the game**, scroll to the bottom or open [`Imp
 
 ## An Encrypted Kidnapping
 
-![Starting Image](media/firstpicture.png)
+![Starting Image](media/tiktok.png)
 
 You and your friends, all former IDF intelligence officers, decided to take a well-deserved trip to **Thailand** after completing your service. Among your group is Amir, known for his strategic brilliance and unmatched dedication.  
 
